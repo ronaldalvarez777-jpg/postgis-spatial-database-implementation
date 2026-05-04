@@ -1,0 +1,6 @@
+id_ruta,nombre,distancia_km,desnivel_m,dificultad,id_zona
+1,Ruta circular Gavarres,12.5,450,Media,64
+2,Camino dels Aiguamolls,8.2,120,Baja,1
+3,Sender del Massís Cadiretes,15.0,680,Alta,47
+4,Ruta del Castell del Montgrí,10.3,390,Media,75
+5,Volta a l’Alta Garrotxa,18.7,820,Alta,3
