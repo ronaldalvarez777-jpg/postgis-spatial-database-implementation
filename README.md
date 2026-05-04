@@ -13,7 +13,7 @@ To build a functional spatial database integrating geographic and tabular data, 
 - Activation of PostGIS extension
 - Import of spatial data using `ogr2ogr`
 - Creation of tables and relationships
-- Data import from CSV using `COPY`
+- Import of CSV data using `COPY`  
 - Geometry generation using `ST_MakePoint`
 - Creation of spatial indexes (GiST)
 - Data validation using SQL queries
