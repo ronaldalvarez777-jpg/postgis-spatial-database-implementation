@@ -38,6 +38,15 @@ To build a functional spatial database integrating geographic and tabular data, 
 
 A fully functional spatial database capable of managing routes, users, points of interest, and natural areas.
 
+## 📁 Data
+
+The repository includes sample data used for database population:
+
+- CSV files for tabular data (usuarios, rutas, puntos, reseñas)
+- Spatial dataset in GeoPackage format (zonas naturales)
+
+These datasets allow full reproduction of the database implementation.
+
 ## 👤 Author
 
 Ronald Álvarez Vaca
