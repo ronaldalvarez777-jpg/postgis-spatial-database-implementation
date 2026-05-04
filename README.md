@@ -24,7 +24,7 @@ To build a functional spatial database integrating geographic and tabular data, 
 
 ## 💻 SQL Implementation
 
-[Download SQL script](importar.sql)
+[View SQL script](import.sql)
 
 ## 🧪 Technologies
 
