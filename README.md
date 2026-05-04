@@ -25,7 +25,6 @@ To build a functional spatial database integrating geographic and tabular data, 
 ## 💻 SQL Implementation
 
 [View SQL script](importar.sql)
-
 ## 🧪 Technologies
 
 - PostgreSQL
