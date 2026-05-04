@@ -47,6 +47,20 @@ The repository includes sample data used for database population:
 
 These datasets allow full reproduction of the database implementation.
 
+## 🔍 Additional SQL Analysis
+
+This project also includes additional SQL queries focused on spatial and statistical analysis using PostGIS.
+
+The analysis includes:
+
+- Air quality filtering (O3 levels)
+- Meteorological averages per station
+- Daily temperature aggregation
+- Spatial relationships using ST_Contains
+- Precipitation analysis by region
+
+[View additional queries](sql_queries_analysis.pdf)
+
 ## 👤 Author
 
 Ronald Álvarez Vaca
