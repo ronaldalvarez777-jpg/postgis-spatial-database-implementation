@@ -3,6 +3,8 @@
 ## 📌 Description
 This project demonstrates the full implementation of a spatial database using PostgreSQL and PostGIS. It includes spatial data import, table creation, relationships, and optimization techniques.
 
+*Este proyecto muestra la implementación completa de una base de datos espacial utilizando PostgreSQL y PostGIS.*
+
 ## 🧠 Objective
 To build a functional spatial database integrating geographic and tabular data, ensuring data integrity and enabling spatial analysis.
 
